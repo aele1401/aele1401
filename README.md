@@ -27,6 +27,7 @@ Hi! I’m Abdi, a passionate Cybersecurity Professional with expertise in incide
 ## SIEM
 - [Azure_Honeypot](https://github.com/aele1401/Azure-Honeypot)
 - [Splunk](https://github.com/aele1401/SIEM)
+- [Automated ELK Stack](https://github.com/aele1401/Cloud_Security)
 
 ## Cloud
 - [Cloud_Security](https://github.com/aele1401/Cloud_Security)
