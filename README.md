@@ -7,7 +7,7 @@ Hi! I’m Abdi, a passionate Cybersecurity Professional with expertise in incide
 ### Azure Honeypot
 [Azure Honeypot](https://github.com/aele1401/Azure-Honeypot)
 - Description: Project implements a low-interaction honeypot on Azure to detect and analyze potential cyber threats. It is designed to attract, detect, and analyze malicious activities by setting up a decoy system and network resource. 
-- Technologies: Azure, Hyper-V, Bash, Sentinel, Log Analytics, and PowerShell
+- Technologies: Azure, Hyper-V, Bash, Sentinel, KQL, Log Analytics, and PowerShell
 
 ### Cloud Deployment & Security
 [Cloud_Security](https://github.com/aele1401/Cloud_Security) & [Luxxy](https://github.com/aele1401/Luxxy)
