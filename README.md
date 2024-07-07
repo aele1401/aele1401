@@ -44,6 +44,6 @@ On my GitHub, you'll find a range of projects showcasing my skills in incident r
 - [The DFIR Report](https://thedfirreport.com/)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/abdi-e-21a052138/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdi-e-21a052138/)
 
 
