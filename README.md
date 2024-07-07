@@ -29,7 +29,7 @@ On my GitHub, you'll find a range of projects showcasing my skills in incident r
 - [WebDav_Pentest](https://github.com/aele1401/WebDav_Pentest)
 
 ### SIEM
-- [Azure_Honeypot](https://github.com/aele1401/Azure-Honeypot)
+- [Azure Sentinel](https://github.com/aele1401/Azure-Honeypot)
 - [Splunk](https://github.com/aele1401/SIEM)
 - [Automated ELK Stack](https://github.com/aele1401/Cloud_Security)
 
