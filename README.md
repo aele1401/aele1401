@@ -37,6 +37,14 @@ On my GitHub, you'll find a range of projects showcasing my skills in incident r
 - [Cloud_Security](https://github.com/aele1401/Cloud_Security)
 - [Multicloud Deployment](https://github.com/aele1401/Luxxy)
 
+### System Administration
+- [Linux](https://github.com/aele1401/Linux)
+- [Windows](https://github.com/aele1401/Windows)
+
+### Network Administration & Security
+- [Network Security](https://github.com/aele1401/Network-Security)
+- [Network Administration](https://github.com/aele1401/Network-Security)
+
 ## 🌱 News & Blogs
 - [The Hacker News](https://thehackernews.com/)
 - [CyberWire](https://thecyberwire.com/)
