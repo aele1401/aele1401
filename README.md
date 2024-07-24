@@ -51,7 +51,7 @@ On my GitHub, you'll find a range of projects showcasing my skills in incident r
 
 ### Network Administration & Security
 - [Network Security](https://github.com/aele1401/Network-Security)
-- [Network Administration](https://github.com/aele1401/Network-Security)
+- [Network Administration](https://github.com/aele1401/Network-Admin)
 
 ## 🌱 News & Blogs
 - [The Hacker News](https://thehackernews.com/)
