@@ -37,6 +37,14 @@ On my GitHub, you'll find a range of projects showcasing my skills in incident r
 - [Cloud_Security](https://github.com/aele1401/Cloud_Security)
 - [Multicloud Deployment](https://github.com/aele1401/Luxxy)
 
+### Scripting & Automation
+- [Ansible](https://github.com/aele1401/Scripts/tree/main/Ansible)
+- [Bash](https://github.com/aele1401/Scripts/tree/main/Bash)
+- [Jamf](https://github.com/aele1401/Scripts/tree/main/Jamf)
+- [PowerShell](https://github.com/aele1401/Scripts/tree/main/PowerShell)
+- [Python](https://github.com/aele1401/Scripts/tree/main/Python)
+- [Ruby](https://github.com/aele1401/Scripts/tree/main/Ruby)
+
 ### System Administration
 - [Linux](https://github.com/aele1401/Linux)
 - [Windows](https://github.com/aele1401/Windows)
