@@ -15,7 +15,7 @@ On my GitHub, you'll find a range of projects showcasing my skills in incident r
 ### Cloud Deployment & Security
 [Cloud Deployment](https://github.com/aele1401/Luxxy) & [Cloud_Security](https://github.com/aele1401/Cloud_Security)
 - Description: Designed a virtual network in Azure, configured an automated ELK stack with custom scripts, and implemented a cloud monitoring system. Also, deployed a COVID Testing Health Result System using a multi-cloud environment and infrastructure as code, migrating data from a physical on-premise solution to the cloud.
-- Technologies: Ansible, AWS, Azure, Bash, Cloud Shell, Docker, ELK, Git, Google Cloud Platform, Hyper-V, Kubernetes, Linux, Terraform, and Vagrant
+- Technologies: Ansible, AWS, Azure, Bash, Cloud Shell, Docker, ELK, Git, Google Cloud Platform, Hyper-V, Kubernetes, Linux, SQL, Terraform, and Vagrant
 
 ### Penetration Test, Detection Engineering, and Network Forensics
 [XCRP_PenTest](https://github.com/aele1401/XCRP_PenTest)
