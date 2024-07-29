@@ -8,18 +8,20 @@ On my GitHub, you'll find a range of projects showcasing my skills in incident r
 ## 🌟 Featured Projects
 ### Azure Honeypot
 [Azure Honeypot](https://github.com/aele1401/Azure-Honeypot)
-
-- Description: Project implements a low-interaction honeypot on Azure to detect and analyze potential cyber threats. It is designed to attract, detect, and analyze malicious activities by setting up a decoy system and network resource. 
+#### Description:
+- Project implements a low-interaction honeypot on Azure to detect and analyze potential cyber threats. It is designed to attract, detect, and analyze malicious activities by setting up a decoy system and network resource. 
 - Technologies: Azure, Hyper-V, Bash, Sentinel, KQL, Log Analytics, and PowerShell
 
 ### Cloud Deployment & Security
 [Cloud Deployment](https://github.com/aele1401/Luxxy) & [Cloud_Security](https://github.com/aele1401/Cloud_Security)
-- Description: Designed a virtual network in Azure, configured an automated ELK stack with custom scripts, and implemented a cloud monitoring system. Also, deployed a COVID Testing Health Result System using a multi-cloud environment and infrastructure as code, migrating data from a physical on-premise solution to the cloud.
+#### Description:
+- Designed a virtual network in Azure, configured an automated ELK stack with custom scripts, and implemented a cloud monitoring system. Also, deployed a COVID Testing Health Result System using a multi-cloud environment and infrastructure as code, migrating data from a physical on-premise solution to the cloud.
 - Technologies: Ansible, AWS, Azure, Bash, Cloud Shell, Docker, ELK, Git, Google Cloud Platform, Hyper-V, Kubernetes, Linux, SQL, Terraform, and Vagrant
 
 ### Penetration Test, Detection Engineering, and Network Forensics
 [XCRP_PenTest](https://github.com/aele1401/XCRP_PenTest)
-- Description: Conducted a network and application penetration test. Developed recommendations and mitigation strategies, implemented custom alerts, playbooks, and security vulnerability patching.
+#### Description:
+- Conducted a network and application penetration test. Developed recommendations and mitigation strategies, implemented custom alerts, playbooks, and security vulnerability patching.
 - Technologies: Ansible, Azure, Bash, ELK, Git, Hyper-V, John-Ripper, Kali Linux, Metasploit, Netcat, Nmap, Python, SQL, and Wireshark
 
 ## 🔭 Additional Projects
