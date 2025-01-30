@@ -24,7 +24,7 @@ On my GitHub, you'll find a range of projects showcasing my skills in incident r
 - Conducted a network and application penetration test. Developed recommendations and mitigation strategies, implemented custom alerts, playbooks, and security vulnerability patching.
 - Technologies: Ansible, Azure, Bash, ELK, Git, Hyper-V, John-Ripper, Kali Linux, Metasploit, Netcat, Nmap, Python, SQL, and Wireshark
 
-## 🔭 Additional Projects
+## 🔭 Projects
 ### Penetration Tests
 - [XCRP_PenTest](https://github.com/aele1401/XCRP_PenTest)
 - [Archetype](https://github.com/aele1401/HacktheBox/tree/main/Archetype)
