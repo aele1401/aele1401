@@ -1,7 +1,7 @@
 # Welcome to My GitHub Page!
 
 ## 👋 About Me
-Hi! I’m Abdi, a cybersecurity enthusiast with over 5 years of experience in information technology, specializing in incident response, penetration testing, threat detection, and vulnerability management. My expertise lies in enhancing detection capabilities and analyzing data from log correlation to mitigate risks. I have a strong background in scripting and automation, which helps streamline security processes. I am passionate about staying current with emerging threats and technologies, and I enjoy collaborating with cross-functional teams to improve security posture.
+Hi! I’m Abdi, a cybersecurity professional with over 5 years of hands-on experience in cybersecurity, specializing in incident response, penetration testing, threat detection, and vulnerability management. My expertise lies in enhancing detection capabilities and analyzing data from log correlation to mitigate risks. I have a strong background in scripting and automation, which helps streamline security processes. I am passionate about staying current with emerging threats and technologies, and I enjoy collaborating with cross-functional teams to improve security posture.
 
 On my GitHub, you'll find a range of projects showcasing my skills in incident response, cloud security, penetration testing, and more. Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
